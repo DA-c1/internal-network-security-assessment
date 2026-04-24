@@ -189,9 +189,6 @@ Open ports and exposed services identified using Legion.
 
 
 
-- Service enumeration
-- SMB findings
-- Risk summary table
 
 
 
